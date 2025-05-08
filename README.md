@@ -1,16 +1,20 @@
-## Hi there 👋
+# About me 
 
-<!--
-**pranavx2006/pranavx2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing B.Tech in Computer Science Engineering  
+🧠 My academic background includes a unique blend of biology and mathematics from high school  
+💻 Beginner in programming — currently learning **C Programming**  
+🚀 Aspiring Software Developer | Interested in  **UI/UX**  and **Cyber Security**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack I'm Learning
+currently started learnig UI/UX and designing principles. 
+
+## 🌱 skills
+managment
+planning 
+designing 
+communication
+
+
+_“Learning is a never-ending journey. Every step I take, no matter how small, is a step toward growth.”_ 🚀
